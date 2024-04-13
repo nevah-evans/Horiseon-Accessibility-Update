@@ -20,8 +20,9 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 em {
     color: #d9dcd6;
+    font-style: normal;
 }
 
 header nav {
