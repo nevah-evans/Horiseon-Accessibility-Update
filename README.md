@@ -10,7 +10,9 @@ To use webpage, you may click on one of the links listed at the top of the page 
 
 [Command+Option+I] (MacOS) or [Control+Shift+I] (Windows)
 
-There you can view the code for the webpage and find semantic elements used for this application. 
+There you can view the code for the webpage and find semantic elements used for this application. You can view webpage by clicking on following link:
+
+https://nevah-evans.github.io/Horiseon-Accessibility-Update/
 
 
 ## Lisence
